@@ -1,8 +1,3 @@
-# TO DO
-- Matlab Scripte path anpassen, sodass Details.xlsx nicht mehr in Aufzeichnungen
-- Details.xlsx updaten (einzelne sheets überprüfen)
-- Referenzen checken
-
 # DreamMachineTesting
 
 This repository stores all files required for or resulting from testing the quality of the DreamMachine for polysomnographic experiements.
@@ -16,3 +11,4 @@ All three **Matlab Scripts** are stored in the correspondent folder.
 The measurements are saved to **Recordings**. Those obtained by the SOMNO HD eco are in .edf format and all recordings resulting from the DreamMachine are .csv files.
 
 All .fig files can only be accessed in Matlab (version R2022a is recommended).
+To execute the Matlab scripts the Fieldtrip Toolbox need to be installed (version released on January 25, 2023)
