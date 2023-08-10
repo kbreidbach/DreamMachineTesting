@@ -16,7 +16,7 @@ ft_defaults
 
 %% loading data set
 cfg         = [];
-cfg.dataset = 'hsoa_removedfilters.edf'; % adjust participant acronym
+cfg.dataset = 'lbod_removedfilters.edf'; % adjust participant acronym
 Filename    = erase(cfg.dataset,'.edf');
 Participant = erase(Filename,'_removedfilters');
 

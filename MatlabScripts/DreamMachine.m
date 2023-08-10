@@ -87,11 +87,10 @@ for trls= 1:200
 end
 
 %% visually inspect the data
-
 cfg           = [];
 cfg.viewmode  = 'vertical';
 cfg.blocksize = 30; % show 30 sec intervals
-cfg.channel   = {'all'};
+cfg.channel   = {'all', '-Cz'};
 cfg.ylim      = [-200 200]; % amplitude limit for better comparison
 ft_databrowser(cfg, Data_final);
 
