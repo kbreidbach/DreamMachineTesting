@@ -7,7 +7,7 @@ To assess the DreamMachine's quality a nap study was conducted where each partic
 All three emails that were sent out to the participants of the experiment are documented in the folder called **Emails**.
 The images which were used in the thesis are stored in **Figures**.
 Some remarks noted during the process of the study are documented in the **Protocol.pdf**.
-All three **Matlab Scripts** are stored in the correspondent folder.
+All **Matlab Scripts** are stored in the correspondent folder, the script that was provided by Paria Samimi in the beginning and the three other scripts written by me.
 All findings resulting from the comparison of the two devices are stored in **Graphoelements**, **PowerPlots** and **Spectrograms** folders and in **Details.xlsx** and **Traumemotionen_Schlafquali.ods** files.
 
 The original measurement files as well as the recording files extracted from Matlab using ft_databrowser could not be attached online in this repository due to their large size.
